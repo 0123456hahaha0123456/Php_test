@@ -1,11 +1,11 @@
 {
-    "name": "mocavn/merchant",
-    "description": "Moca Merchant Backend SDK",
+    "name": "payment-test-version",
+    "description": "This is test",
     "type": "library",
     "authors": [
         {
-            "name": "Moca",
-            "email": "support@moca.vn"
+            "name": "Test",
+            "email": "test@test.test"
         }
     ],
     "minimum-stability": "stable",
