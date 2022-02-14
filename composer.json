@@ -1,0 +1,22 @@
+{
+    "name": "mocavn/merchant",
+    "description": "Moca Merchant Backend SDK",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Moca",
+            "email": "support@moca.vn"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Moca\\Merchant\\": "src/"}
+    },
+    "require": {
+        "vlucas/phpdotenv": "*",
+        "mashape/unirest-php": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
